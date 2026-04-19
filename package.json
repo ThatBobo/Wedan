@@ -1,8 +1,8 @@
 {
   "name": "Wedan",
   "version": "0.0.1",
-  "description": "A Vite + React + TypeScript project for Zoey's inventions",
-  "author": "ThatBobo",
+  "description": "A Vite + React + TypeScript web app for showcasing and selling Zoey's inventions, built by The Besties",
+  "author": "The Besties",
   "license": "MIT",
 
   "main": "dist/index.js",
